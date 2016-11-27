@@ -9,7 +9,7 @@ function Connection() {
       host: 'localhost',
       port: '3306',
       user: 'root',
-      password: 'p@ssw0rd',
+      password: 'password',
       database: 'todo'
     });
   };
